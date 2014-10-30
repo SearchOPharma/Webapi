@@ -17,7 +17,7 @@ namespace TestApp
         public MainPage()
         {
             InitializeComponent();
-
+            string s = "";
             // Sample code to localize the ApplicationBar
             //BuildLocalizedApplicationBar();
         }
